@@ -1,4 +1,6 @@
 # ResourceGuru Technical Task
+[![Unit Tests](https://github.com/instrido/ResourceGuru/actions/workflows/unit-tests.yaml/badge.svg)](https://github.com/instrido/ResourceGuru/actions/workflows/unit-tests.yaml)
+
 Technical interview solutions.
 
 ## Overview
