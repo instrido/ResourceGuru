@@ -1,7 +1,7 @@
 // Part 1 – Flattening an array
 export const getFlattenedArray = <T>(nestedArray: unknown): T[] => {
   if (!Array.isArray(nestedArray)) {
-    throw new Error('Parameter is not an array.');
+    throw new TypeError('Parameter is not an array.');
   }
 
   let flattenedArray: T[] = [];
